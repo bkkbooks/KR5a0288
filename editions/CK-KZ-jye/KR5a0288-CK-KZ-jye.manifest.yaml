@@ -1,0 +1,49 @@
+canonical_identifier: bkk:krp/KR5a0288/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5a0288/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 析疑指迷論
+  date: '2015-08-28 23:44:23.247250'
+  source:
+    repository: kanripo
+    path: KR5a0288
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0288_000-CK-KZ-jye.yaml, hash: 'sha256:cffcfbc65a8848267f4dc79822854f7484a027d0c36a0561221ec6d0d89ec3b8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0288_000-CK-KZ-jye.markers.yaml, hash: 'sha256:e4342643606ab3f4850e9dcaa5076baba56311deaf5cd88a3bb939c98709c69c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0288_CK-KZ-jye_000-h3
+    span:
+    - body
+    - 0
+    - 2299
+  label: 析疑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5a0288_CK-KZ-jye_000-h4
+    span:
+    - body
+    - 2299
+    - 4887
+  label: 指迷
+  type: section
+  level: 2
+hash: sha256:8c2d4b1f99481614edc2ec952a625cb9f355011c231071ccc3ab8587ed418497

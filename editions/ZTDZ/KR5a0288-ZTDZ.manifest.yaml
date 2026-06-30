@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5a0288/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5a0288/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 析疑指迷論
+  date: '2015-08-28 23:44:23.247250'
+  source:
+    repository: kanripo
+    path: KR5a0288
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0288_000-ZTDZ.yaml, hash: 'sha256:200b745678ebec043233b30221197a6b2b5e3e12236ad5deb7ac33bdf1df5a43'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0288_000-ZTDZ.markers.yaml, hash: 'sha256:4294e175b39aeff4b517638810c095827faaf4b27e72d113cddc2a856e8ed57e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0288_SJB_000-040947b
+    span:
+    - body
+    - 0
+    - 4872
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:c6fb704b38443c3ebec0962078d5c3a36873001365311de1fb515534b1e08e7f
