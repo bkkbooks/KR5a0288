@@ -24,7 +24,7 @@ assets:
   parts:
   - {seq: 0, filename: KR5a0288_000-CK-KZ-jye.yaml, hash: 'sha256:cffcfbc65a8848267f4dc79822854f7484a027d0c36a0561221ec6d0d89ec3b8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5a0288_000-CK-KZ-jye.markers.yaml, hash: 'sha256:e4342643606ab3f4850e9dcaa5076baba56311deaf5cd88a3bb939c98709c69c'}
+  - {seq: 0, role: markers, filename: assets/KR5a0288_000-CK-KZ-jye.markers.yaml, hash: 'sha256:701cba4f2a001e96d938697b0ab73c0560d828dd9e62d600ef8b149542ca112e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,4 +46,4 @@ table_of_contents:
   label: 指迷
   type: section
   level: 2
-hash: sha256:8c2d4b1f99481614edc2ec952a625cb9f355011c231071ccc3ab8587ed418497
+hash: sha256:daf7c1a7be7c3f06f09d58678355eaad5603effad9d1d0c31b934595c818f297

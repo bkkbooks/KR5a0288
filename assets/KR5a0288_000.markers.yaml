@@ -2009,6 +2009,7 @@ markers:
   - {type: page-break, offset: 4866, content: '', id: KR5a0288_SJB_000-040953a, image: sjb/04/040953a.png}
   - {type: indent, offset: 4871, content: 　, id: KR5a0288_krp_000-bkkind5}
   - {type: punctuation, offset: 4871, content: (, id: KR5a0288_krp_000-bkkpn1}
+  - {type: voice, offset: 4871, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 4872, content: ), id: KR5a0288_krp_000-bkkpn2}
   - {type: 'kr:newline', offset: 4872, content: '
 
@@ -2065,4 +2066,4 @@ markers:
 
       ', id: KR5a0288_krp_000-bkkkrnewl347}
   back: []
-hash: sha256:c7bc43fece8e4087128eb4a7cc42e585caf785c83c08ad51d0df008c780bedfc
+hash: sha256:b24dd7b401afb1a3d91b10900648ef9bc32ced3ff478e0dfe57fa05db8190745
